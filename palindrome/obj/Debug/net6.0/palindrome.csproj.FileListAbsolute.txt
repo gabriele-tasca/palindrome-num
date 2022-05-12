@@ -1,0 +1,15 @@
+/home/gaboloth/prj/code/ztests/cstest/palindrome/bin/Debug/net6.0/palindrome
+/home/gaboloth/prj/code/ztests/cstest/palindrome/bin/Debug/net6.0/palindrome.deps.json
+/home/gaboloth/prj/code/ztests/cstest/palindrome/bin/Debug/net6.0/palindrome.runtimeconfig.json
+/home/gaboloth/prj/code/ztests/cstest/palindrome/bin/Debug/net6.0/palindrome.dll
+/home/gaboloth/prj/code/ztests/cstest/palindrome/bin/Debug/net6.0/palindrome.pdb
+/home/gaboloth/prj/code/ztests/cstest/palindrome/obj/Debug/net6.0/palindrome.csproj.AssemblyReference.cache
+/home/gaboloth/prj/code/ztests/cstest/palindrome/obj/Debug/net6.0/palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaboloth/prj/code/ztests/cstest/palindrome/obj/Debug/net6.0/palindrome.AssemblyInfoInputs.cache
+/home/gaboloth/prj/code/ztests/cstest/palindrome/obj/Debug/net6.0/palindrome.AssemblyInfo.cs
+/home/gaboloth/prj/code/ztests/cstest/palindrome/obj/Debug/net6.0/palindrome.csproj.CoreCompileInputs.cache
+/home/gaboloth/prj/code/ztests/cstest/palindrome/obj/Debug/net6.0/palindrome.dll
+/home/gaboloth/prj/code/ztests/cstest/palindrome/obj/Debug/net6.0/refint/palindrome.dll
+/home/gaboloth/prj/code/ztests/cstest/palindrome/obj/Debug/net6.0/palindrome.pdb
+/home/gaboloth/prj/code/ztests/cstest/palindrome/obj/Debug/net6.0/palindrome.genruntimeconfig.cache
+/home/gaboloth/prj/code/ztests/cstest/palindrome/obj/Debug/net6.0/ref/palindrome.dll
